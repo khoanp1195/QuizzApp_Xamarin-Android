@@ -1,0 +1,15 @@
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\obj\Debug\net6.0\ToolCreateQuery.csproj.AssemblyReference.cache
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\obj\Debug\net6.0\ToolCreateQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\obj\Debug\net6.0\ToolCreateQuery.AssemblyInfoInputs.cache
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\obj\Debug\net6.0\ToolCreateQuery.AssemblyInfo.cs
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\obj\Debug\net6.0\ToolCreateQuery.csproj.CoreCompileInputs.cache
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\bin\Debug\net6.0\ToolCreateQuery.exe
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\bin\Debug\net6.0\ToolCreateQuery.deps.json
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\bin\Debug\net6.0\ToolCreateQuery.runtimeconfig.json
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\bin\Debug\net6.0\ToolCreateQuery.dll
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\bin\Debug\net6.0\ToolCreateQuery.pdb
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\obj\Debug\net6.0\ToolCreateQuery.dll
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\obj\Debug\net6.0\refint\ToolCreateQuery.dll
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\obj\Debug\net6.0\ToolCreateQuery.pdb
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\obj\Debug\net6.0\ToolCreateQuery.genruntimeconfig.cache
+C:\Users\khoanp\Desktop\Xamarin Android\FlagQuizz\ToolCreateQuery\ToolCreateQuery\obj\Debug\net6.0\ref\ToolCreateQuery.dll
